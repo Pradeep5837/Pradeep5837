@@ -5,7 +5,4 @@
 - 📫 How to reach me pradeepk586274@gmail.com
 -                     phone no 8296774424
 
-                  --->
-                       ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                  
